@@ -1,6 +1,8 @@
 
 /********** Base styles **********/
 * {
+  margin:0;
+  padding:0;
   box-sizing: border-box;
   font-family: sans-serif;
 }
@@ -23,7 +25,7 @@ p{
   height: 150px;
   font-family: Helvetica;
   color: black;
-  margin: 8px;
+  margin: 6px;
 }
 
 .chicken{
