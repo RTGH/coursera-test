@@ -28,7 +28,10 @@ p{
   background-color: pink;
   text-align: center;
   width: 150px;
-  margin-top: 0px;
+  position: relative;
+  right: 0px;
+  top: 0px;
+  margin:0px;
   float: right;
 }
 
